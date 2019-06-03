@@ -1,4 +1,4 @@
-# ML_interpretation_ensembling_for_strctured_data
+# ML_interpretation_ensembling_for_structured_data
 The purpose of this repositiry is to illustrate some methods of interpreting the Machine Learning models 
 (many times also called as Black Box models) for their so called 'Lack of Interpretability. 
 I will also show a few methods of ensemling various models to achieve better results than any single model.
