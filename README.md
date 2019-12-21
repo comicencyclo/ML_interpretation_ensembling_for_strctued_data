@@ -5,3 +5,8 @@ I will also show a few methods of ensemling various models to achieve better res
 
 Important: The plots related to SHAP value will not render by default when viewed directly under GitHub.
 Please use the extrenal view with nbviewer to see all the graphs properly.
+
+Credits: 
+https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard
+https://github.com/vecxoz/vecstack
+
